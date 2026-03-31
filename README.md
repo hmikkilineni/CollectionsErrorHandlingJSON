@@ -1,6 +1,6 @@
 # Collections, Error Handling, JSON & Account Relationships
 
-C# console app covering Day 5 fundamentals for Dynamics 365 development.
+C# console app covering fundamentals for Dynamics 365 development.
 
 ## What I Practiced
 
